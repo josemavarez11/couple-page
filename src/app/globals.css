@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: var(--font-cormorant);
+  --font-sans: var(--font-raleway);
+}
+
+body {
+  background-color: #100e0c;
+  color: white;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  touch-action: none;
+}
+
+.dvh-full {
+  height: 100dvh;
+}
