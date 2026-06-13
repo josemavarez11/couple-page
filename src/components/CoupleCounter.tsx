@@ -115,7 +115,7 @@ export default function CoupleCounter() {
         <TimeUnit value={years} label="Years" show={activeYears} />
         {activeYears || months > 0 ? (
           <>
-            <TimeUnit value={months} label="Mes" show={activeYears || months > 0} />
+            <TimeUnit value={months} label={months === 1 ? "Mes" : "Meses"} show={activeYears || months > 0} />
             <div className="hidden md:block w-px h-12 bg-white/10" />
           </>
         ) : null}
