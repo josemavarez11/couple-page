@@ -21,5 +21,15 @@ export const photos = [
   '/photos/lj14.jpg',
   '/photos/lj15.jpg',
   '/photos/lj16.jpg',
+  '/photos/lj17.jpg',
+  '/photos/lj18.jpg',
+  '/photos/lj19.jpg',
+  '/photos/lj20.jpg',
+  '/photos/lj21.jpg',
+  '/photos/lj22.jpg',
+  '/photos/lj23.jpg',
+  '/photos/lj24.jpg',
+  '/photos/lj25.jpg',
+  '/photos/lj26.jpg',
 ];
 
