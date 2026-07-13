@@ -50,7 +50,7 @@ const AmbientParticles = () => {
 export default function Page() {
 
   return (
-    <main className="relative w-full h-full dvh-full bg-[#100e0c] overflow-hidden flex flex-col">
+    <main className="relative w-full min-h-screen bg-[#100e0c] overflow-auto flex flex-col">
       {/* Top Zone: Rope & Photos */}
       <div className="relative w-full h-[38dvh] pt-[env(safe-area-inset-top)] pt-4">
         <PolaroidGallery />
@@ -58,17 +58,17 @@ export default function Page() {
 
       <div className="relative z-10 flex flex-col items-center px-6 mt-6">
         <div className="w-full max-w-3xl mx-auto mb-8 px-4">
-          <div
-            className="w-full rounded-3xl border border-white/15 bg-white/90 p-5 text-sm text-neutral-900 shadow-[0_20px_80px_rgba(0,0,0,0.12)] whitespace-pre-wrap break-words"
-          >
-            {`Hola Linda. Sabes el proposito con el que creé este esapcio para los dos y el significado que tiene. El dia de hoy se cumplen exactamente dos meses de aquel hermoso día en el que te pedí que fueras mi novia. Yo sé perfectamente lo que lamentablemente ocurrió hace poco y la situación en la que nos
-encontramos ahora, pero eso jamás borrará que hace dos meses me hiciste la persona más feliz del mundo y que me diste la oportunidad de tener a mi lado a la persona más increible que he conocido.
-Si llegas a leer revisar esto quiero que sepas que gracias por todo lo que me has dado, por tu amor, tu tiempo, tu paciencia y tu cariño. Gracias por ser tú, por ser tan especial y única. Gracias por hacerme sentir amado y valorado. Gracias por ser mi compañera, mi amiga y mi confidente. Gracias por ser mi novia. Te amo con todas las fuerzas de mi alma y corazón.
-A pesar de la situación no puedo dejar pasar la fecha de hoy sin decirte que te amo y que eres la persona más importante en mi vida.
-Hoy no ha sido un dia sencillo al ver que no puedo compartir este día coontigo como tenía en mi mente desde hace rato,  pero intento ser fuerte
-porque siempre quiero ser el superheroe que me decias que era para ti. Te amo y siempre será el amor de mi vida, y espero que algún día podamos estar juntos de nuevo.
-Le pediré a Dios que nos de la oportunidad de estar juntos y que nos permita superar cualquier obstáculo que se nos presente. Te amo Linda Vélez.`}
-          </div>
+            <div
+              className="w-full rounded-3xl border border-white/15 bg-white/90 p-5 text-sm text-neutral-900 shadow-[0_20px_80px_rgba(0,0,0,0.12)] whitespace-normal break-normal"
+            >
+              {`Hola Linda. Sabes el proposito con el que creé este esapcio para los dos y el significado que tiene. El dia de hoy se cumplen exactamente dos meses de aquel hermoso día en el que te pedí que fueras mi novia. Yo sé perfectamente lo que lamentablemente ocurrió hace poco y la situación en la que nos
+  encontramos ahora, pero eso jamás borrará que hace dos meses me hiciste la persona más feliz del mundo y que me diste la oportunidad de tener a mi lado a la persona más increible que he conocido.
+  Si llegas a leer revisar esto quiero que sepas que gracias por todo lo que me has dado, por tu amor, tu tiempo, tu paciencia y tu cariño. Gracias por ser tú, por ser tan especial y única. Gracias por hacerme sentir amado y valorado. Gracias por ser mi compañera, mi amiga y mi confidente. Gracias por ser mi novia. Te amo con todas las fuerzas de mi alma y corazón.
+  A pesar de la situación no puedo dejar pasar la fecha de hoy sin decirte que te amo y que eres la persona más importante en mi vida.
+  Hoy no ha sido un dia sencillo al ver que no puedo compartir este día coontigo como tenía en mi mente desde hace rato,  pero intento ser fuerte
+  porque siempre quiero ser el superheroe que me decias que era para ti. Te amo y siempre será el amor de mi vida, y espero que algún día podamos estar juntos de nuevo.
+  Le pediré a Dios que nos de la oportunidad de estar juntos y que nos permita superar cualquier obstáculo que se nos presente. Te amo Linda Vélez.`}
+            </div>
         </div>
       </div>
 
