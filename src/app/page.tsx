@@ -50,16 +50,16 @@ const AmbientParticles = () => {
 export default function Page() {
 
   return (
-    <main className="relative w-full min-h-screen bg-[#100e0c] overflow-auto flex flex-col">
+    <main className="relative w-full h-screen bg-[#100e0c] overflow-y-auto flex flex-col">
       {/* Top Zone: Rope & Photos */}
-      <div className="relative w-full h-[38dvh] pt-[env(safe-area-inset-top)] pt-4">
+      <div className="relative w-full min-h-[45vh] pb-8 pt-[env(safe-area-inset-top)] pt-4">
         <PolaroidGallery />
       </div>
 
-      <div className="relative z-10 flex flex-col items-center px-6 mt-6">
-        <div className="w-full max-w-3xl mx-auto mb-8 px-4">
+      <div className="relative z-10 flex flex-col items-center px-6 mt-6 overflow-visible">
+        <div className="w-full max-w-3xl mx-auto mb-8 px-4 overflow-visible">
             <div
-              className="w-full rounded-3xl border border-white/15 bg-white/90 p-5 text-sm text-neutral-900 shadow-[0_20px_80px_rgba(0,0,0,0.12)] whitespace-normal break-normal"
+              className="w-full rounded-3xl border border-white/15 bg-white/90 p-5 text-sm text-neutral-900 shadow-[0_20px_80px_rgba(0,0,0,0.12)] whitespace-pre-wrap break-words overflow-visible"
             >
               {`Hola Linda. Sabes el proposito con el que creé este esapcio para los dos y el significado que tiene. El dia de hoy se cumplen exactamente dos meses de aquel hermoso día en el que te pedí que fueras mi novia. Yo sé perfectamente lo que lamentablemente ocurrió hace poco y la situación en la que nos
   encontramos ahora, pero eso jamás borrará que hace dos meses me hiciste la persona más feliz del mundo y que me diste la oportunidad de tener a mi lado a la persona más increible que he conocido.
