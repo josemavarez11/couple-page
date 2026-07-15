@@ -61,6 +61,17 @@ export default function Page() {
             <div
               className="w-full rounded-3xl border border-white/15 bg-white/90 p-5 text-sm text-neutral-900 shadow-[0_20px_80px_rgba(0,0,0,0.12)] whitespace-pre-wrap break-words overflow-visible"
             >
+              {`Hola Linda, mi princesa. Hoy quiero dejar salir mis sentimientos en algun lugar donde pueda expresarlos de formas más ordenada y sin nervios.
+              No estoy seguro de si sigues revisando esta pagina o si ya no lo haces, pero quiero que esto igualmente quede aquí porque es un lugar seguro que creé para los dos
+              y que está pensado sobre todo para que tu puedas reencontrarte con una pequeña idea de lo que siento por ti y de lo que significas para mi.
+              Los días sin ti cada vez se me hacen más largos y difíciles, y aunque trato de mantenerme ocupado y distraído, no puedo evitar sentir un vacío en mi corazón, pero no solo un vacio por tu ausencia fisica si no tambien 
+              por los lindos momentos que no estoy compartiendo conmigo. Tambien he intentado darte espacio y tiempo pero no puedo evitar sentir que me estoy perdiendo de ti y de todo lo que eres. Me duele mucho no poder estar a tu lado y no poder abrazarte, besarte y decirte lo mucho que te amo todo el tiempo como siempre lo hago.
+              Me cuesta mucho aceptar que no puedo estar contigo en este momento, renunciar a nuestro noviazgo y a todo lo que hemos logrado implicaría renunciar a una parte de mi vida que es muy importante para mi y que me hace feliz. No quiero renunciar a ti, no quiero renunciar a nosotros, no quiero renunciar a lo que hemos construido juntos. Quiero seguir luchando por nuestro amor y por nuestra relación, quiero seguir construyendo recuerdos y momentos felices contigo, quiero seguir amándote y cuidándote como siempre lo he hecho.
+              Quiero que sepas que te amo con todo mi corazón y que quiero estar para ti, apoyándote, escuchándote y amándote incondicionalmente. Eres la persona más importante en mi vida y no quiero perderte nunca. Sigo rogando porque llegue el momento en el que podamos estar juntos de nuevo y seguir siendo novio de la mejor persona del mundo. Te amo, Linda Vélez.`}
+            </div>
+            <div
+              className="w-full rounded-3xl border border-white/15 bg-white/90 p-5 text-sm text-neutral-900 shadow-[0_20px_80px_rgba(0,0,0,0.12)] whitespace-pre-wrap break-words overflow-visible"
+            >
               {`Hola Linda. Sabes el proposito con el que creé este esapcio para los dos y el significado que tiene. El dia de hoy se cumplen exactamente dos meses de aquel hermoso día en el que te pedí que fueras mi novia. Yo sé perfectamente lo que lamentablemente ocurrió hace poco y la situación en la que nos
   encontramos ahora, pero eso jamás borrará que hace dos meses me hiciste la persona más feliz del mundo y que me diste la oportunidad de tener a mi lado a la persona más increible que he conocido.
   Si llegas a leer revisar esto quiero que sepas que gracias por todo lo que me has dado, por tu amor, tu tiempo, tu paciencia y tu cariño. Gracias por ser tú, por ser tan especial y única. Gracias por hacerme sentir amado y valorado. Gracias por ser mi compañera, mi amiga y mi confidente. Gracias por ser mi novia. Te amo con todas las fuerzas de mi alma y corazón.
