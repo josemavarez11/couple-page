@@ -61,6 +61,20 @@ export default function Page() {
             <div
               className="w-full rounded-3xl border border-white/15 bg-white/90 p-5 text-sm text-neutral-900 shadow-[0_20px_80px_rgba(0,0,0,0.12)] whitespace-pre-wrap break-words overflow-visible"
             >
+              {`Hola mi bebé Linda. Las ultimas horas lejos de ti siguen siendo muy dificiles de digerir. La importancia que tu tienes en mi vida es tan gigante que no puedo evitar
+              sentir que me falta una parte de mi cuando no estás a mi lado. Es una sensación muy dificil de explicar porque a pesar de que me muero por ganas de enviarte mensajes o aparecer o visitarte,
+              no quiero incomodarte ni hacerte sentir presionada ni fastidiada, y mucho menos pasarle por encima a tu espacio y tiempo.
+              Quiero que sepas que de verdad estas horas me han servido para empatizar cada vez más con tus emociones y sentimientos, me duele mucho esta situación pero también deseo tu bienestar y tu felicidad y quiero que sepas que mis ganas de 
+              de estar contigo y seguir sembrando amor en nuestra relación siguen intactas.
+              Estas horas también me han servido para reflexionar sobre lo que significa nuestra relación y lo que quiero para nosotros. Quiero seguir construyendo recuerdos y momentos felices contigo, quiero seguir amándote y cuidándote como siempre lo he hecho.
+              También he podido revivir muchos momentos lindos en mi mente, como por ejemplo el día antes de mi cumpleaños que me invitaste a salir contigo, cenamos y 
+              me cantaron el cumpleaños personas que no conocía y me sentí especial. Y así como ese día, hay muchos otros momentos que me hacen sentir afortunado de tenerte en mi vida y que me recuerdan lo mucho que te amo y lo importante que eres para mi.
+              Espero pronto poder verte y seguir construyendo nuestra historia y muchos momentos lindos juntos. Te amo con todo mi corazón. Prometo darte un fuerte abrazo
+              la proxima vez que nos veamos y decirte lo mucho que te amo. Te amo Linda Vélez.`}
+            </div>
+            <div
+              className="w-full rounded-3xl border border-white/15 bg-white/90 p-5 text-sm text-neutral-900 shadow-[0_20px_80px_rgba(0,0,0,0.12)] whitespace-pre-wrap break-words overflow-visible"
+            >
               {`Hola Linda, mi princesa. Hoy quiero dejar salir mis sentimientos en algun lugar donde pueda expresarlos de formas más ordenada y sin nervios.
               No estoy seguro de si sigues revisando esta pagina o si ya no lo haces, pero quiero que esto igualmente quede aquí porque es un lugar seguro que creé para los dos
               y que está pensado sobre todo para que tu puedas reencontrarte con una pequeña idea de lo que siento por ti y de lo que significas para mi.
