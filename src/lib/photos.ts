@@ -49,5 +49,10 @@ export const photos = [
   '/photos/lj42.jpg',
   '/photos/lj43.jpg',
   '/photos/lj44.jpg',
+  '/photos/lj45.jpg',
+  '/photos/lj46.jpg',
+  '/photos/lj47.jpg',
+  '/photos/lj48.jpg',
+  '/photos/lj49.jpg',
 ];
 
