@@ -61,6 +61,23 @@ export default function Page() {
             <div
               className="w-full rounded-3xl border border-white/15 bg-white/90 p-5 text-sm text-neutral-900 shadow-[0_20px_80px_rgba(0,0,0,0.12)] whitespace-pre-wrap break-words overflow-visible"
             >
+              {`Hola mi hermosa bebé Linda. Hoy quiero dejarte un nuevo mensaje por aquí porque me gusta aprovechar cada momento y espacio posible que pueda tener
+              para expresarte lo que a veces pasa por mi cabeza cuando no estás a mi lado. Por unos días pudiste leer aquí una serie de mensajes que escribí más que todo como un desahogo
+              y no estaba seguro de que leerías, así que esta vez me gustaría que también leyeras esto.
+              Hoy quiero hablarte un poco sobre mi corazón y mi mente te perciben y lo que signficas para mi en general.
+              La verdad es que desde que te conocí, mi corazón late más fuerte y rapido cada vez que te veo. Desde aquellas primeras conversaciones que tuvimos para conocernos
+              pude darme cuenta de que había algo especial en ti, algo que me atraía y me hacía sentir vivo. Y a medida que fuimos conociéndonos más, mi corazón se fue llenando de amor y cariño por ti.
+              Mi mente también ha estado ocupada pensando en ti, en tus risas, en tus abrazos, en tus palabras y en todo lo que compartimos juntos. Cada vez que pienso en ti, siento una mezcla de emociones que me hacen sentir vivo y feliz.
+              Y también he podido adquirir la certeza de que eres la persona con la que quiero compartir mi vida, mis sueños y metas. Eres mi compañera, mi amiga y mi confidente, y no puedo imaginar mi vida sin ti.
+              Desde que te conocí, mi vida ha cambiado para mejor. Tu amor, tu ternura y tu alegría han llenado mi corazón de felicidad.
+              Quiero nuevamente decirte, porque sé que muchas veces lo hago tambien, que te amo con todo mi corazón y que siempre estaré aquí para ti, apoyándote, escuchándote y amándote incondicionalmente.
+              Y que mientras yo viva, siempre tendrás alguien que te cuidará, te respetará y te amará por lo que eres. Eres la persona más importante en mi vida y no quiero perderte nunca. Te amo, Linda Vélez.
+              PD: Cuando veas este mensaje, quiero que me lo hagas saber con una frase clave. "Tu bebé Linda te ama", de esa forma sabré que lo leíste y dejaré este espacio limpio de nuevo para que podamos seguir viendo en primera pantalla nuestro contador de novios.
+              `}
+            </div>
+            <div
+              className="w-full rounded-3xl border border-white/15 bg-white/90 p-5 text-sm text-neutral-900 shadow-[0_20px_80px_rgba(0,0,0,0.12)] whitespace-pre-wrap break-words overflow-visible"
+            >
               {`Hola mi bebé Linda. Las ultimas horas lejos de ti siguen siendo muy dificiles de digerir. La importancia que tu tienes en mi vida es tan gigante que no puedo evitar
               sentir que me falta una parte de mi cuando no estás a mi lado. Es una sensación muy dificil de explicar porque a pesar de que me muero por ganas de enviarte mensajes o aparecer o visitarte,
               no quiero incomodarte ni hacerte sentir presionada ni fastidiada, y mucho menos pasarle por encima a tu espacio y tiempo.
