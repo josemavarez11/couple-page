@@ -56,64 +56,6 @@ export default function Page() {
         <PolaroidGallery />
       </div>
 
-      <div className="relative z-10 flex flex-col items-center px-6 mt-6 overflow-visible">
-        <div className="w-full max-w-3xl mx-auto mb-8 px-4 overflow-visible">
-            <div
-              className="w-full rounded-3xl border border-white/15 bg-white/90 p-5 text-sm text-neutral-900 shadow-[0_20px_80px_rgba(0,0,0,0.12)] whitespace-pre-wrap break-words overflow-visible"
-            >
-              {`Hola mi hermosa bebé Linda. Hoy quiero dejarte un nuevo mensaje por aquí porque me gusta aprovechar cada momento y espacio posible que pueda tener
-              para expresarte lo que a veces pasa por mi cabeza cuando no estás a mi lado. Por unos días pudiste leer aquí una serie de mensajes que escribí más que todo como un desahogo
-              y no estaba seguro de que leerías, así que esta vez me gustaría que también leyeras esto.
-              Hoy quiero hablarte un poco sobre mi corazón y mi mente te perciben y lo que signficas para mi en general.
-              La verdad es que desde que te conocí, mi corazón late más fuerte y rapido cada vez que te veo. Desde aquellas primeras conversaciones que tuvimos para conocernos
-              pude darme cuenta de que había algo especial en ti, algo que me atraía y me hacía sentir vivo. Y a medida que fuimos conociéndonos más, mi corazón se fue llenando de amor y cariño por ti.
-              Mi mente también ha estado ocupada pensando en ti, en tus risas, en tus abrazos, en tus palabras y en todo lo que compartimos juntos. Cada vez que pienso en ti, siento una mezcla de emociones que me hacen sentir vivo y feliz.
-              Y también he podido adquirir la certeza de que eres la persona con la que quiero compartir mi vida, mis sueños y metas. Eres mi compañera, mi amiga y mi confidente, y no puedo imaginar mi vida sin ti.
-              Desde que te conocí, mi vida ha cambiado para mejor. Tu amor, tu ternura y tu alegría han llenado mi corazón de felicidad.
-              Quiero nuevamente decirte, porque sé que muchas veces lo hago tambien, que te amo con todo mi corazón y que siempre estaré aquí para ti, apoyándote, escuchándote y amándote incondicionalmente.
-              Y que mientras yo viva, siempre tendrás alguien que te cuidará, te respetará y te amará por lo que eres. Eres la persona más importante en mi vida y no quiero perderte nunca. Te amo, Linda Vélez.
-              PD: Cuando veas este mensaje, quiero que me lo hagas saber con una frase clave. "Tu bebé Linda te ama", de esa forma sabré que lo leíste y dejaré este espacio limpio de nuevo para que podamos seguir viendo en primera pantalla nuestro contador de novios.
-              `}
-            </div>
-            <div
-              className="w-full rounded-3xl border border-white/15 bg-white/90 p-5 text-sm text-neutral-900 shadow-[0_20px_80px_rgba(0,0,0,0.12)] whitespace-pre-wrap break-words overflow-visible"
-            >
-              {`Hola mi bebé Linda. Las ultimas horas lejos de ti siguen siendo muy dificiles de digerir. La importancia que tu tienes en mi vida es tan gigante que no puedo evitar
-              sentir que me falta una parte de mi cuando no estás a mi lado. Es una sensación muy dificil de explicar porque a pesar de que me muero por ganas de enviarte mensajes o aparecer o visitarte,
-              no quiero incomodarte ni hacerte sentir presionada ni fastidiada, y mucho menos pasarle por encima a tu espacio y tiempo.
-              Quiero que sepas que de verdad estas horas me han servido para empatizar cada vez más con tus emociones y sentimientos, me duele mucho esta situación pero también deseo tu bienestar y tu felicidad y quiero que sepas que mis ganas de 
-              de estar contigo y seguir sembrando amor en nuestra relación siguen intactas.
-              Estas horas también me han servido para reflexionar sobre lo que significa nuestra relación y lo que quiero para nosotros. Quiero seguir construyendo recuerdos y momentos felices contigo, quiero seguir amándote y cuidándote como siempre lo he hecho.
-              También he podido revivir muchos momentos lindos en mi mente, como por ejemplo el día antes de mi cumpleaños que me invitaste a salir contigo, cenamos y 
-              me cantaron el cumpleaños personas que no conocía y me sentí especial. Y así como ese día, hay muchos otros momentos que me hacen sentir afortunado de tenerte en mi vida y que me recuerdan lo mucho que te amo y lo importante que eres para mi.
-              Espero pronto poder verte y seguir construyendo nuestra historia y muchos momentos lindos juntos. Te amo con todo mi corazón. Prometo darte un fuerte abrazo
-              la proxima vez que nos veamos y decirte lo mucho que te amo. Te amo Linda Vélez.`}
-            </div>
-            <div
-              className="w-full rounded-3xl border border-white/15 bg-white/90 p-5 text-sm text-neutral-900 shadow-[0_20px_80px_rgba(0,0,0,0.12)] whitespace-pre-wrap break-words overflow-visible"
-            >
-              {`Hola Linda, mi princesa. Hoy quiero dejar salir mis sentimientos en algun lugar donde pueda expresarlos de formas más ordenada y sin nervios.
-              No estoy seguro de si sigues revisando esta pagina o si ya no lo haces, pero quiero que esto igualmente quede aquí porque es un lugar seguro que creé para los dos
-              y que está pensado sobre todo para que tu puedas reencontrarte con una pequeña idea de lo que siento por ti y de lo que significas para mi.
-              Los días sin ti cada vez se me hacen más largos y difíciles, y aunque trato de mantenerme ocupado y distraído, no puedo evitar sentir un vacío en mi corazón, pero no solo un vacio por tu ausencia fisica si no tambien 
-              por los lindos momentos que no estoy compartiendo conmigo. Tambien he intentado darte espacio y tiempo pero no puedo evitar sentir que me estoy perdiendo de ti y de todo lo que eres. Me duele mucho no poder estar a tu lado y no poder abrazarte, besarte y decirte lo mucho que te amo todo el tiempo como siempre lo hago.
-              Me cuesta mucho aceptar que no puedo estar contigo en este momento, renunciar a nuestro noviazgo y a todo lo que hemos logrado implicaría renunciar a una parte de mi vida que es muy importante para mi y que me hace feliz. No quiero renunciar a ti, no quiero renunciar a nosotros, no quiero renunciar a lo que hemos construido juntos. Quiero seguir luchando por nuestro amor y por nuestra relación, quiero seguir construyendo recuerdos y momentos felices contigo, quiero seguir amándote y cuidándote como siempre lo he hecho.
-              Quiero que sepas que te amo con todo mi corazón y que quiero estar para ti, apoyándote, escuchándote y amándote incondicionalmente. Eres la persona más importante en mi vida y no quiero perderte nunca. Sigo rogando porque llegue el momento en el que podamos estar juntos de nuevo y seguir siendo novio de la mejor persona del mundo. Te amo, Linda Vélez.`}
-            </div>
-            <div
-              className="w-full rounded-3xl border border-white/15 bg-white/90 p-5 text-sm text-neutral-900 shadow-[0_20px_80px_rgba(0,0,0,0.12)] whitespace-pre-wrap break-words overflow-visible"
-            >
-              {`Hola Linda. Sabes el proposito con el que creé este esapcio para los dos y el significado que tiene. El dia de hoy se cumplen exactamente dos meses de aquel hermoso día en el que te pedí que fueras mi novia. Yo sé perfectamente lo que lamentablemente ocurrió hace poco y la situación en la que nos
-  encontramos ahora, pero eso jamás borrará que hace dos meses me hiciste la persona más feliz del mundo y que me diste la oportunidad de tener a mi lado a la persona más increible que he conocido.
-  Si llegas a leer revisar esto quiero que sepas que gracias por todo lo que me has dado, por tu amor, tu tiempo, tu paciencia y tu cariño. Gracias por ser tú, por ser tan especial y única. Gracias por hacerme sentir amado y valorado. Gracias por ser mi compañera, mi amiga y mi confidente. Gracias por ser mi novia. Te amo con todas las fuerzas de mi alma y corazón.
-  A pesar de la situación no puedo dejar pasar la fecha de hoy sin decirte que te amo y que eres la persona más importante en mi vida.
-  Hoy no ha sido un dia sencillo al ver que no puedo compartir este día coontigo como tenía en mi mente desde hace rato,  pero intento ser fuerte
-  porque siempre quiero ser el superheroe que me decias que era para ti. Te amo y siempre será el amor de mi vida, y espero que algún día podamos estar juntos de nuevo.
-  Le pediré a Dios que nos de la oportunidad de estar juntos y que nos permita superar cualquier obstáculo que se nos presente. Te amo Linda Vélez.`}
-            </div>
-        </div>
-      </div>
-
       {/* Middle Zone: Counter Area */}
       <div className="relative z-10 flex-1 flex flex-col items-center justify-center px-6">
         <div className="relative w-full max-w-5xl mx-auto">
