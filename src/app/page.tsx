@@ -4,6 +4,9 @@ import { motion } from "framer-motion";
 import CoupleCounter from "@/components/CoupleCounter";
 import PolaroidGallery from "@/components/PolaroidGallery";
 import { useState } from "react";
+import { useCelebration } from "@/hooks/useCelebration";
+import CelebrationBanner from "@/components/celebration/CelebrationBanner";
+import CelebrationEffects from "@/components/celebration/CelebrationEffects";
 
 const AmbientParticles = () => {
   const [particles] = useState(() => 
@@ -48,9 +51,17 @@ const AmbientParticles = () => {
 };
 
 export default function Page() {
+  const { isAnniversary, monthsPassed } = useCelebration();
 
   return (
     <main className="relative w-full h-screen bg-[#100e0c] overflow-y-auto flex flex-col">
+      {isAnniversary && (
+        <>
+          <CelebrationEffects />
+          <CelebrationBanner monthsPassed={monthsPassed} />
+        </>
+      )}
+
       {/* Top Zone: Rope & Photos */}
       <div className="relative w-full min-h-[45vh] pb-8 pt-[env(safe-area-inset-top)] pt-4">
         <PolaroidGallery />
